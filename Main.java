@@ -28,9 +28,7 @@ public class Main {
 
         return getCityByGeo;
     }
-
-    public static List<City> getCityByPop(int population)
-
+  
     public static void main(String[] args) {
         System.out.println(getCityByGeo("DEU"));
 
